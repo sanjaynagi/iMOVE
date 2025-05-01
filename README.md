@@ -1,5 +1,8 @@
 # iMOVE
 
+[<img src="https://raw.githubusercontent.com/sanjaynagi/imove/main/imove-logo.png" width="400"/>](https://raw.githubusercontent.com/sanjaynagi/imove/main/imove-logo.png)   
+
+
 ## <ins>i</ins>nverse <ins>M</ins>olecular Docking <ins>o</ins>f <ins>V</ins>ector <ins>E</ins>nzymes
 
 iMOVE is a toolkit for analyzing protein structures and performing inverse molecular docking for proteins in VectorBase using AlphaFold models.
